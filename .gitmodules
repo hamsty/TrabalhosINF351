@@ -1,0 +1,18 @@
+[submodule "Led_Table_NxN"]
+	path = Led_Table_NxN
+	url = https://github.com/hamsty/Led_Table_NxN
+[submodule "HelloKitty"]
+	path = HelloKitty
+	url = https://github.com/hamsty/HelloKitty
+[submodule "Jogo_da_Memoria"]
+	path = Jogo_da_Memoria
+	url = https://github.com/hamsty/Jogo_da_Memoria
+[submodule "Image2Bin"]
+	path = Image2Bin
+	url = https://github.com/hamsty/Image2Bin
+[submodule "TinkercadNeoPixel"]
+	path = TinkercadNeoPixel
+	url = https://github.com/hamsty/TinkercadNeoPixel
+[submodule "gamesirg3sble"]
+	path = gamesirg3sble
+	url = https://github.com/hamsty/gamesirg3sble
