@@ -16,3 +16,11 @@
 [submodule "gamesirg3sble"]
 	path = gamesirg3sble
 	url = https://github.com/hamsty/gamesirg3sble
+[submodule "Labirinto"]
+	path = Labirinto
+	url = https://github.com/hamsty/Labirinto/
+	branch = main
+[submodule "Cursor_12x12"]
+	path = Cursor_12x12
+	url = https://github.com/hamsty/Cursor_12x12/
+	branch = main
